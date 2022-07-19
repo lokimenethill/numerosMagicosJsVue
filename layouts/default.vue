@@ -10,7 +10,7 @@
       :absolute="!fixed"
       app
     >
-      <span>&copy; {{ new Date().getFullYear() }} Ruiz Hernández Christian</span>
+      <span>{{ new Date().getFullYear() }} Ruiz Hernández Christian</span>
     </v-footer>
   </v-app>
 </template>
